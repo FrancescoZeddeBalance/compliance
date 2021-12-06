@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QZ_data>
+	<QZ_titoloQuestionario>Test finale</QZ_titoloQuestionario>
+	<QZ_sogliaSuperamento>6</QZ_sogliaSuperamento>
+	<QZ_numeroDomandeDaMostrare>10</QZ_numeroDomandeDaMostrare>
+	<QZ_random_mix>true</QZ_random_mix>
+	<!-- QZ_ricominciaQuizOgniVolta>true</QZ_ricominciaQuizOgniVolta -->
+	<QZ_confermaRispostaConNext>true</QZ_confermaRispostaConNext>
+	<QZ_completaSoloAlSuccesso>true</QZ_completaSoloAlSuccesso>
+	<QZ_procediSoloSeCorretto>false</QZ_procediSoloSeCorretto>
+	<QZ_mostraReportCorrezioneDomande>true</QZ_mostraReportCorrezioneDomande>
+	<!-- QZ_resultPositiveImage>./contenuti/image_1/success.jpg</QZ_resultPositiveImage -->
+	<!-- QZ_resultNegativeImage>./contenuti/image_1/fail.jpg</QZ_resultNegativeImage -->
+	<QZ_labelStatusEsitoPositivo>
+		<![CDATA[<span style="font-size:1.5rem;color:#000;">Test superato</span>]]>
+	</QZ_labelStatusEsitoPositivo>
+	<QZ_labelStatusEsitoNegativo>
+		<![CDATA[<span style="font-size:1.5rem;color:#000;">Test non superato</span>]]>
+	</QZ_labelStatusEsitoNegativo>
+	<QZ_labelIlTuoPunteggio>
+		<![CDATA[<span style="">risposte corrette: </span>]]>
+	</QZ_labelIlTuoPunteggio>
+	<QZ_labelDomandeCorrette>
+		<![CDATA[Domande risposte <span style="color:#ffffff;">correttamente:</span>]]>
+	</QZ_labelDomandeCorrette>
+	<QZ_labelDomandeSbagliate>
+		<![CDATA[Domande risposte <span style="color:#ffffff;">in modo errato:</span>]]>
+	</QZ_labelDomandeSbagliate>
+	<QZ_labelPulsanteAvanti>Conferma</QZ_labelPulsanteAvanti>
+	<QZ_aria_labelDomanda>Domanda</QZ_aria_labelDomanda>
+	<QZ_aria_labelRisposta>Risposta</QZ_aria_labelRisposta>
+	<QZ_aria_labelCorretto>Corretto</QZ_aria_labelCorretto>
+	<QZ_aria_labelSbagliato>Sbagliato</QZ_aria_labelSbagliato>
+
+	<!-- QZ_trace_interaction>true</QZ_trace_interaction -->
+	<!-- QZ_trace_score>true</QZ_trace_score -->
+
+
+	<QZ_questions>
+		<QZ_question_block QZ_question_id="1"
+		                QZ_correct_answer_id="3"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="false" >
+			<QZ_question_text>
+				Il “Programma di Compliance Antitrust” è finalizzato: 
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					A rafforzare - anche nell’interesse delle società controllate - i presidi interni volti ad assicurare la conformità alla normativa a tutela del mercato e del consumatore
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					A favorire lo sviluppo della cultura d’impresa in materia di tutela della concorrenza e del consumatore
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Entrambe le precedenti risposte
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+
+<QZ_question_block QZ_question_id="2"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Quali documenti ha approvato il consiglio di amministrazione di Acea per il perseguimento degli obiettivi relativi al Programma di Compliance?
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Manuale di Conformità alla Normativa Antitrust e Tutela del Consumatore e Regolamento Organizzativo Compliance Antitrust e Pratiche Commerciali Scorrette
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Manuale di Conformità alla Normativa Antitrust e Tutela del Consumatore e Regolamento di policy atte a prevenire abusi di posizione dominante
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Manuale di Conformità alla Normativa Antitrust e Tutela del Consumatore e Regolamento di policy atte a prevenire pratiche commerciali scorrette
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="3"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Il “Manuale di Conformità alla Normativa Antitrust e Tutela del Consumatore”:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Ripercorre i principali elementi della normativa e reca una serie di regole di comportamento che tutte le persone di Acea sono tenute a osservare nello svolgimento delle proprie attività
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Definisce l’organizzazione aziendale ai fini dell’efficace attuazione del Programma di Compliance
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Fornisce consulenza specialistica in materia di Normativa Antitrust
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="4"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Il “Regolamento Organizzativo Compliance Antitrust e Pratiche Commerciali Scorrette”:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Definisce l’organizzazione aziendale ai fini dell’efficace attuazione del Programma di Compliance
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Ripercorre i principali elementi della normativa e reca una serie di regole di comportamento che tutte le persone di Acea sono tenute a osservare nello svolgimento delle proprie attività
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Fornisce consulenza specialistica in materia di Normativa Antitrust
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="5"
+		                QZ_correct_answer_id="2"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Il programma di compliance è formalmente attuato:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Solo dalla società Capogruppo
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					In ogni società del Gruppo tramite deliberazione del Consiglio di Amministrazionee
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					In ogni società del Gruppo in maniera autonoma dal referente Antitrust
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="6"
+		                QZ_correct_answer_id="3"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Quali delle seguenti attività non è in capo al Referente Antitrust:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Fornire consulenza specialistica in materia di Normativa Antitrust e ricevere richieste di assistenza della società in merito al Programma, fornendo tempestive indicazioni
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Monitorare e verificare periodicamente l’adeguatezza e l’efficacia del Programma di Compliance Antitrust, attraverso attività di valutazione periodica delle sue componenti
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Definire l’organizzazione aziendale ai fini dell’efficace attuazione del Programma di Compliance
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="7"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="false" >
+			<QZ_question_text>
+				Quali delle seguenti attività di verifica e monitoraggio può svolgere il Referente Antitrust: 
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Attività sistematiche di valutazione dell’efficacia delle diverse componenti che compongono il Programma
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Definizione dell’organizzazione aziendale ai fini dell’efficace attuazione del Programma di Compliance
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Nessuna delle precedenti risposte
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="8"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				La responsabilità del coordinamento delle attività dei Referenti Antitrust di Società spetta al:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Referente Antitrust di Holding
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Consiglio di Amministrazione di Acea Spa
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					 Amministrato Delegato di Acea Spa
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="9"
+		                QZ_correct_answer_id="3"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="false" >
+			<QZ_question_text>
+				Quale tra le seguenti rappresenta una regola di condotta da rispettare in occasione di contatti o riunioni con concorrenti?
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Sono assolutamente vietati gli scambi di informazioni che vertano su variabili competitive e su Informazioni Sensibili
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Evitare ogni contatto, diretto o indiretto, tra imprese che abbia per oggetto o per effetto di influenzare il comportamento sul mercato di un concorrente
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Entrambe le precedenti risposte sono corrette
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>
+		
+<QZ_question_block QZ_question_id="10"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				In occasione della preparazione e/o della partecipazione a gare pubbliche:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					E' necessario astenersi da qualsiasi contatto con altri potenziali partecipanti alla gara, in cui si possano discutere, direttamente o indirettamente, Informazioni Sensibili
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					In caso di scambio di informazioni sensibili con altre imprese, è necessario chiedere prima l’autorizzazione al proprio Referente Antitrust di Società 
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Non esistono specifiche regola di condotta per la partecipazione a gare pubbliche
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>		
+
+<QZ_question_block QZ_question_id="11"
+		                QZ_correct_answer_id="1"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="false" >
+			<QZ_question_text>
+				Nei rapporti con i fornitori, per i quali Acea costituisce un acquirente importante e/o un partner imprescindibile (situazioni di cd. dipendenza economica):
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					E' necessario assicurarsi che le condizioni economiche e contrattuali loro applicate non siano discriminatorie, né ingiustificatamente gravose o onerose, e sottoporre a previa valutazione del Referente Antitrust di Società e delle Direzioni competenti tali clausole
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					E' possibile applicare differenti condizioni economiche e contrattuali in funzione delle soglie di fatturato dell’acquirente e/o partner 
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Nessuna delle risposte precedenti è corretta
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>	
+
+<QZ_question_block QZ_question_id="12"
+		                QZ_correct_answer_id="3"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Quale tra le seguenti regole di condotta NON è applicabile alle imprese pubbliche che svolgono un servizio di interesse generale?
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Astenersi dall’utilizzo di informazioni detenute in virtù dello svolgimento di un servizio gestito in monopolio o, comunque, di un servizio di interesse economico generale per avvantaggiarsene in mercati diversi, a meno che tali informazioni non siano rese disponibili anche ai concorrenti
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Evitare rifiuti ingiustificati di fornire accesso ad asset indispensabili per svolgere un’attività in un mercato distinto 
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Fornire risposte interlocutorie e non risolutive alle istanze dei clienti
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>		
+
+	
+	<QZ_question_block QZ_question_id="13"
+		                QZ_correct_answer_id="3"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="false" >
+			<QZ_question_text>
+				Con riferimento alle regole di condotta in materia di pratiche commerciali, è necessario:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					Evitare risposte interlocutorie, ambigue, non pertinenti, contraddittorie e non risolutive alle istanze dei clienti
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					Evadere con la massima tempestività possibile le istanze dei clienti, con particolare riguardo a quelle riferite alla fatturazione di consumi 
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					Entrambe le precedenti sono corrette
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>		
+	
+	<QZ_question_block QZ_question_id="14"
+		                QZ_correct_answer_id="2"
+		                QZ_question_category="prova_1"
+		                QZ_question_img="./contenuti/image_1/gente.jpg"
+		                QZ_random_mix_answer="true" >
+			<QZ_question_text>
+				Con riferimento alle regole di condotta in materia di pratiche commerciali:
+			</QZ_question_text>
+			<QZ_answers>
+				<QZ_question_answer QZ_answer_id="1" >
+					<QZ_answer_text>
+					E' possibile introdurre modifiche ai contratti in corso o fornire servizi accessori senza adeguata informativa e previo consenso espresso del cliente
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="2">
+					<QZ_answer_text>
+					E' necessario gestire con tempestività i rimborsi spettanti agli utenti
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+				<QZ_question_answer QZ_answer_id="3">
+					<QZ_answer_text>
+					L’invio di adeguata informativa in merito all’attivazione di offerte, servizi, o vendita prodotti è facoltativo 
+					</QZ_answer_text>
+					<QZ_answer_feedback></QZ_answer_feedback>
+				</QZ_question_answer>
+			</QZ_answers>
+		</QZ_question_block>	
+
+		
+	</QZ_questions>
+
+	<QZ_custom_results>
+		<QZ_result 
+			QZ_start="0"
+		    QZ_end="1">
+			
+		</QZ_result>
+		<QZ_result 
+			QZ_start="2"
+		    QZ_end="3">
+			
+		</QZ_result>
+		<QZ_result 
+			QZ_start="4"
+		    QZ_end="4">
+		
+		</QZ_result>
+	</QZ_custom_results>
+</QZ_data>

@@ -1,0 +1,42 @@
+WEBVTT
+
+NOTE
+To enable cue styles, please remove above 'NOTE' line as well as this line.
+STYLE
+::cue {
+	font-family: Verdana;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+1
+00:00:02.120 --> 00:00:06.620 line:15 align:middle
+Benvenuti in questo corso
+
+2
+00:00:06.620 --> 00:00:11.070 line:15 align:middle
+formativo dedicato al “Programma di Compliance Antitrust” di Acea,
+
+3
+00:00:11.390 --> 00:00:16.340 line:15 align:middle
+finalizzato a prevenire rischi di violazione della Normativa Antitrust e pensato per
+
+4
+00:00:16.340 --> 00:00:21.180 line:15 align:middle
+favorire lo sviluppo di una cultura d’impresa orientata al rispetto dei valori
+
+5
+00:00:21.180 --> 00:00:24.100 line:15 align:middle
+del libero mercato e della concorrenza leale.
+
+6
+00:00:25.550 --> 00:00:28.940 line:15 align:middle
+In particolare, insieme approfondiremo questi argomenti:
+
+7
+00:00:29.940 --> 00:00:33.620 line:15 align:middle
+1.	finalità e caratteristiche del Programma di Compliance di Acea 
+
+8
+00:00:34.230 --> 00:00:39.180 line:15 align:middle
+2.	organizzazione aziendale ai fini dell’efficace attuazione del Programma di Compliance.
